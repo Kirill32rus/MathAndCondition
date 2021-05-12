@@ -10,7 +10,7 @@ public class Main {
         System.out.print("input number: ");
         number = input.nextInt();
 
-        //todo lucky ticket4
+        //todo lucky ticket
 
         int sumNumber1 = number / 1000;//921 - первые 3 числа
         int sumNumber2 = number % 1000;//309 - последние 3 числа
